@@ -1,2 +1,2 @@
-# check_Vietnamese_lottery
+# check Vietnam lottery result
 Check Lô :v 
